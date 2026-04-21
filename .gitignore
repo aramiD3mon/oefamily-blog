@@ -1,0 +1,14 @@
+# Hugo build output
+/public/
+/resources/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Environment/secrets (if you ever add them)
+.env
+
+# IDE files (optional but clean)
+.vscode/
+.idea/
