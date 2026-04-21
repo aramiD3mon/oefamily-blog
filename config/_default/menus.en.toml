@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Contact"
+  weight = 400
+  identifier = "contact"
+  url = "https://oefamily.com/#contact"
+
+  [[main]]
+  name = "Oak & Ember Main"
+  weight = 500
+  identifier = "main"
+  url = "https://oefamily.com"
+
+  [[footer]]
+  name = "oefamily.com"
+  weight = 1
+  identifier = "oefamily"
+  url = "https://oefamily.com"

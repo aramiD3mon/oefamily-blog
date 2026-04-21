@@ -1,0 +1,14 @@
+[en]
+title = "Oak & Ember Blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[es]
+title = "El Blog de Oak & Ember"
+contentDir = "content/spanish"
+weight = 2
+LanguageName = "ES"
+
+[es.params]
+description = "Oak & Ember es el lugar donde el confort y la dignidad regresan a casa."

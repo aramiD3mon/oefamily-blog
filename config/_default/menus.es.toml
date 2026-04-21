@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Inicio"
+  identifier = "inicio"
+  weight = 100
+  url = "/es/"
+
+  [[main]]
+  name = "Publicaciones"
+  weight = 200
+  identifier = "publicaciones"
+  url = "/es/post/"
+
+  [[main]]
+  name = "Nosotros"
+  weight = 300
+  identifier = "nosotros"
+  url = "/es/about/"
+
+  [[main]]
+  name = "Contacto"
+  weight = 400
+  identifier = "contacto"
+  url = "/es/contact/"
+
+  [[main]]
+  name = "Oak & Ember Main"
+  weight = 500
+  identifier = "main"
+  url = "https://oefamily.com"

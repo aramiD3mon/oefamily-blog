@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Oak &amp; Ember Blog</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Oak &amp; Ember Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homes</title>
+      <link>http://localhost:1313/categories/homes/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/homes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>http://localhost:1313/categories/questions/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/questions/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>http://localhost:1313/categories/quality/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/quality/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rn</title>
+      <link>http://localhost:1313/categories/rn/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/rn/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/categories/life/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/life/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vida on El Blog de Oak &amp; Ember</title>
+    <link>http://localhost:1313/es/tags/vida/</link>
+    <description>Recent content in Vida on El Blog de Oak &amp; Ember</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/vida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vida en el Hogar</title>
+      <link>http://localhost:1313/es/post/lifeatoe/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/post/lifeatoe/</guid>
+      
+        <description>Rutina diaria en vida asistida</description>
+      
+    </item>
+    
+  </channel>
+</rss>
