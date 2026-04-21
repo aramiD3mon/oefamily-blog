@@ -24,6 +24,12 @@ jobs:
         with:
           hugo-version: '0.150.0'
 
+      - name: Install Dart Sass Embedded
+        run: |
+          wget https://github.com/sass/dart-sass/releases/download/1.99.0/dart-sass-1.99.0-linux-x64.tar.gz
+          tar -xzf dart-sass-1.99.0-linux-x64.tar.gz
+          echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
+
       - name: Build
         run: hugo --minify
 
