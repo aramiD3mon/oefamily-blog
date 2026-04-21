@@ -2,344 +2,344 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/es/</loc>
+    <loc>https://blog.oefamily.com/es/</loc>
     <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://blog.oefamily.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://blog.oefamily.com/es/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/about/</loc>
+    <loc>https://blog.oefamily.com/es/about/</loc>
     <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://blog.oefamily.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/about/"
+                href="https://blog.oefamily.com/es/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/</loc>
+    <loc>https://blog.oefamily.com/es/categories/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://blog.oefamily.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://blog.oefamily.com/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/post/chooserighthome/</loc>
+    <loc>https://blog.oefamily.com/es/post/chooserighthome/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/chooserighthome/"
+                href="https://blog.oefamily.com/post/chooserighthome/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/chooserighthome/"
+                href="https://blog.oefamily.com/es/post/chooserighthome/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/compare/</loc>
+    <loc>https://blog.oefamily.com/es/tags/compare/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/compare/"
+                href="https://blog.oefamily.com/tags/compare/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/compare/"
+                href="https://blog.oefamily.com/es/tags/compare/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/facility/</loc>
+    <loc>https://blog.oefamily.com/es/tags/facility/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/facility/"
+                href="https://blog.oefamily.com/tags/facility/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/facility/"
+                href="https://blog.oefamily.com/es/tags/facility/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/series/guide/</loc>
+    <loc>https://blog.oefamily.com/es/series/guide/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/guide/"
+                href="https://blog.oefamily.com/series/guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/series/guide/"
+                href="https://blog.oefamily.com/es/series/guide/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/home/</loc>
+    <loc>https://blog.oefamily.com/es/tags/home/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/home/"
+                href="https://blog.oefamily.com/tags/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/home/"
+                href="https://blog.oefamily.com/es/tags/home/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/homes/</loc>
+    <loc>https://blog.oefamily.com/es/categories/homes/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/homes/"
+                href="https://blog.oefamily.com/categories/homes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/homes/"
+                href="https://blog.oefamily.com/es/categories/homes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/index/</loc>
+    <loc>https://blog.oefamily.com/es/tags/index/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/index/"
+                href="https://blog.oefamily.com/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/index/"
+                href="https://blog.oefamily.com/es/tags/index/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/post/</loc>
+    <loc>https://blog.oefamily.com/es/post/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://blog.oefamily.com/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/"
+                href="https://blog.oefamily.com/es/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/questions/</loc>
+    <loc>https://blog.oefamily.com/es/categories/questions/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/questions/"
+                href="https://blog.oefamily.com/categories/questions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/questions/"
+                href="https://blog.oefamily.com/es/categories/questions/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/questions/</loc>
+    <loc>https://blog.oefamily.com/es/tags/questions/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/questions/"
+                href="https://blog.oefamily.com/tags/questions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/questions/"
+                href="https://blog.oefamily.com/es/tags/questions/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/series/</loc>
+    <loc>https://blog.oefamily.com/es/series/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://blog.oefamily.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/series/"
+                href="https://blog.oefamily.com/es/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/</loc>
+    <loc>https://blog.oefamily.com/es/tags/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://blog.oefamily.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://blog.oefamily.com/es/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/post/rnoversightmean/</loc>
+    <loc>https://blog.oefamily.com/es/post/rnoversightmean/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/rnoversightmean/"
+                href="https://blog.oefamily.com/post/rnoversightmean/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/rnoversightmean/"
+                href="https://blog.oefamily.com/es/post/rnoversightmean/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/quality/</loc>
+    <loc>https://blog.oefamily.com/es/categories/quality/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/quality/"
+                href="https://blog.oefamily.com/categories/quality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/quality/"
+                href="https://blog.oefamily.com/es/categories/quality/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/quality/</loc>
+    <loc>https://blog.oefamily.com/es/tags/quality/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/quality/"
+                href="https://blog.oefamily.com/tags/quality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/quality/"
+                href="https://blog.oefamily.com/es/tags/quality/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/rn/</loc>
+    <loc>https://blog.oefamily.com/es/categories/rn/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/rn/"
+                href="https://blog.oefamily.com/categories/rn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/rn/"
+                href="https://blog.oefamily.com/es/categories/rn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/series/rn/</loc>
+    <loc>https://blog.oefamily.com/es/series/rn/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/rn/"
+                href="https://blog.oefamily.com/series/rn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/series/rn/"
+                href="https://blog.oefamily.com/es/series/rn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/rn/</loc>
+    <loc>https://blog.oefamily.com/es/tags/rn/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/rn/"
+                href="https://blog.oefamily.com/tags/rn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/rn/"
+                href="https://blog.oefamily.com/es/tags/rn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/safety/</loc>
+    <loc>https://blog.oefamily.com/es/tags/safety/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/safety/"
+                href="https://blog.oefamily.com/tags/safety/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/safety/"
+                href="https://blog.oefamily.com/es/tags/safety/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/actividades/</loc>
+    <loc>https://blog.oefamily.com/es/tags/actividades/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/series/quality/</loc>
+    <loc>https://blog.oefamily.com/es/series/quality/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/quality/"
+                href="https://blog.oefamily.com/series/quality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/series/quality/"
+                href="https://blog.oefamily.com/es/series/quality/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/rutina/</loc>
+    <loc>https://blog.oefamily.com/es/categories/rutina/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/tags/vida/</loc>
+    <loc>https://blog.oefamily.com/es/tags/vida/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/post/lifeatoe/</loc>
+    <loc>https://blog.oefamily.com/es/post/lifeatoe/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/lifeatoe/"
+                href="https://blog.oefamily.com/post/lifeatoe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/lifeatoe/"
+                href="https://blog.oefamily.com/es/post/lifeatoe/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/vida-en-el-hogar/</loc>
+    <loc>https://blog.oefamily.com/es/categories/vida-en-el-hogar/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/tags/vision/</loc>
+    <loc>https://blog.oefamily.com/es/tags/vision/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/archives/</loc>
+    <loc>https://blog.oefamily.com/es/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://blog.oefamily.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/archives/"
+                href="https://blog.oefamily.com/es/archives/"
                 />
   </url>
 </urlset>

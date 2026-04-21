@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Oak &amp; Ember Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.oefamily.com/</link>
     <description>Recent content in Home on Oak &amp; Ember Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.oefamily.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arizona&#39;s Cost of Assisted Living 2026</title>
-      <link>http://localhost:1313/post/arizonacostofassistedliving/</link>
+      <link>https://blog.oefamily.com/post/arizonacostofassistedliving/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/arizonacostofassistedliving/</guid>
+      <guid>https://blog.oefamily.com/post/arizonacostofassistedliving/</guid>
       
         <description>Cost information you need to know according to SeniorCareCostGuide.com</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Assisted Living Resources in Maricopa County</title>
-      <link>http://localhost:1313/post/allresourcesyouneed/</link>
+      <link>https://blog.oefamily.com/post/allresourcesyouneed/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/allresourcesyouneed/</guid>
+      <guid>https://blog.oefamily.com/post/allresourcesyouneed/</guid>
       
         <description>Looking for assisted living in Maricopa County, Arizona? Explore trusted websites, average costs, Medicare guidance, AHCCCS resources, and local senior support services.</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://blog.oefamily.com/about/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://blog.oefamily.com/about/</guid>
       
         <description>Oak &amp; Ember blog</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>How to Choose the Right Assisted Living Home</title>
-      <link>http://localhost:1313/post/chooserighthome/</link>
+      <link>https://blog.oefamily.com/post/chooserighthome/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/chooserighthome/</guid>
+      <guid>https://blog.oefamily.com/post/chooserighthome/</guid>
       
         <description>Here are the key questions to ask and what to look for when comparing homes.</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>What Does RN-Led Care Really Mean for Your Loved One?</title>
-      <link>http://localhost:1313/post/rnoversightmean/</link>
+      <link>https://blog.oefamily.com/post/rnoversightmean/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/rnoversightmean/</guid>
+      <guid>https://blog.oefamily.com/post/rnoversightmean/</guid>
       
         <description>RN at the helm of a care home makes a significant difference in health outcomes, medication safety and overall quality of life for residents.</description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Life at Oak &amp; Ember</title>
-      <link>http://localhost:1313/post/lifeatoe/</link>
+      <link>https://blog.oefamily.com/post/lifeatoe/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/lifeatoe/</guid>
+      <guid>https://blog.oefamily.com/post/lifeatoe/</guid>
       
         <description>A Day in the Life at Oak &amp; Ember.</description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Important Links</title>
-      <link>http://localhost:1313/post/importantlinks/</link>
+      <link>https://blog.oefamily.com/post/importantlinks/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/importantlinks/</guid>
+      <guid>https://blog.oefamily.com/post/importantlinks/</guid>
       
         <description>Assisted Living Links</description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://blog.oefamily.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://blog.oefamily.com/archives/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/imprint/</link>
+      <link>https://blog.oefamily.com/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/imprint/</guid>
+      <guid>https://blog.oefamily.com/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;

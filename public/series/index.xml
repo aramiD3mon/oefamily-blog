@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Oak &amp; Ember Blog</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://blog.oefamily.com/series/</link>
     <description>Recent content in Series on Oak &amp; Ember Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.oefamily.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide</title>
-      <link>http://localhost:1313/series/guide/</link>
+      <link>https://blog.oefamily.com/series/guide/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/guide/</guid>
+      <guid>https://blog.oefamily.com/series/guide/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>RN</title>
-      <link>http://localhost:1313/series/rn/</link>
+      <link>https://blog.oefamily.com/series/rn/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/rn/</guid>
+      <guid>https://blog.oefamily.com/series/rn/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Quality</title>
-      <link>http://localhost:1313/series/quality/</link>
+      <link>https://blog.oefamily.com/series/quality/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/series/quality/</guid>
+      <guid>https://blog.oefamily.com/series/quality/</guid>
       
         <description></description>
       

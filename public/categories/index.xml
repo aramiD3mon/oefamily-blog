@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Oak &amp; Ember Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://blog.oefamily.com/categories/</link>
     <description>Recent content in Categories on Oak &amp; Ember Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.oefamily.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homes</title>
-      <link>http://localhost:1313/categories/homes/</link>
+      <link>https://blog.oefamily.com/categories/homes/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/homes/</guid>
+      <guid>https://blog.oefamily.com/categories/homes/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Questions</title>
-      <link>http://localhost:1313/categories/questions/</link>
+      <link>https://blog.oefamily.com/categories/questions/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/questions/</guid>
+      <guid>https://blog.oefamily.com/categories/questions/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Quality</title>
-      <link>http://localhost:1313/categories/quality/</link>
+      <link>https://blog.oefamily.com/categories/quality/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/quality/</guid>
+      <guid>https://blog.oefamily.com/categories/quality/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Rn</title>
-      <link>http://localhost:1313/categories/rn/</link>
+      <link>https://blog.oefamily.com/categories/rn/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/rn/</guid>
+      <guid>https://blog.oefamily.com/categories/rn/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Life</title>
-      <link>http://localhost:1313/categories/life/</link>
+      <link>https://blog.oefamily.com/categories/life/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/life/</guid>
+      <guid>https://blog.oefamily.com/categories/life/</guid>
       
         <description></description>
       
