@@ -18,6 +18,8 @@ aliases = ["guide"]
 thumbnail = "images/blog-1.jpg"
 +++
 
+---
+
 Choosing an assisted living home for a loved one is one of the most important decisions a family can make. 
 In Maricopa County, Arizona, there are dozens of options — from large corporate facilities to intimate residential care homes like Oak & Ember. Knowing what to look for can make all the difference.
 
@@ -30,7 +32,12 @@ Start with the right questions before you even schedule a tour, it helps to clar
 - what activities and social programming are offered?
 - what is the process for handling medical emergencies?
 
-The Tour - What to Look For:
+<br>
+</br>
+
+---
+
+## The Tour - What to Look For:
 A tour tells you far more than a brochure ever could. Pay attention to how staff interact with current residents-are they warm, patient and attentive? Does the home smell clean and feel welcoming? Are residents engaged and comfortable or do they seem is “The best care homes feel like a home first and a facility second. Trust your instincts when you walk through the At Oak & Ember, we welcome family visits because we believe transparency builds trust. Our 10-resident capacity means every family member who walks through our door gets personal attention from our RN-led team.
 
 Licensing and Compliance in Arizona:
@@ -38,3 +45,7 @@ All assisted living homes in Arizona must be licensed by the Arizona Department 
 
 Small vs. Large Facilities - Why Size Matters:
 Larger facilities offer more amenities, but smaller residential care homes often provide a higher quality of individualized care. With only 10 residents, Oak & Ember ensures that every person is known by name, their preferences are honored and their care plan is truly person We encourage you to visit us and see the difference firsthand. Our team is always happy to answer questions, walk you through our daily routines and help you determine if Oak & Ember is the right fit for your family.
+
+<br>
+</br>
+🌳 Oak & Ember 

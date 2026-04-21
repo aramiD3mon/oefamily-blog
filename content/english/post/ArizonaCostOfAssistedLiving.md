@@ -13,16 +13,20 @@ categories = [
     "questions",
     "homes",
 ]
-series = ["Guide"]
-aliases = ["guide"]
+series = ["Arizona"]
+aliases = ["arizona"]
 thumbnail = "images/utahZion_w.jpg"
 +++
+
+---
+
 ## Cost of Assisted Living in Arizona
 Arizona assisted living costs are about $6,370 per month in 2026 or roughly $73,000–$79,800 per year, which is above the national median. Pricing varies by city, care level and service model, with Phoenix-area communities often costing more and some southern or western Arizona locations costing less. The guide also covers regional cost patterns, ALTCS Medicaid coverage, comparisons with other care types, and long-term financial planning.
 
 One detail to note: the passage says the Arizona figure is based on the Genworth/CareScout 2024 survey, but another 2026 state-cost source lists a lower Arizona median of $4,820 per month, showing that estimates can differ depending on methodology and source.
 <br>
 </br>
+
 ## Assisted Living Cost by City
 
 | City | Low Range | High Range | Estimated Median | Annual Equivalent |
@@ -68,5 +72,6 @@ One detail to note: the passage says the Arizona figure is based on the Genworth
 | New York | $6,195-$7,560 | 2026 |
 | California | $7,350-$7,488 | 2026 |
 
-
+<br>
+</br>
 🌳 Oak & Ember 

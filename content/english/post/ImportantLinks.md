@@ -4,7 +4,13 @@ title = "Important Links"
 date = "2026-01-01"
 description = "Assisted Living Links"
 tags = ["redirect", "redirectUrl"]
+series = ["Arizona"]
+aliases = ["arizona"]
+thumbnail = "images/sacréCœur_w.jpg"
 +++
+
+---
+
 Licensing, Registration and compliance
 - [Arizona Department of Health Services (ADHS) Residential Facilities Licensing](https://www.azdhs.gov/licensing/residential-facilities/index.php)
 - [Arizona Corporate Commission (ACC)](https://azcc.gov/)

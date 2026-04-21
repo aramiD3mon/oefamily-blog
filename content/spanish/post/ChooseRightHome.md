@@ -17,20 +17,19 @@ series = ["Guide"]
 aliases = ["guide"]
 thumbnail = "images/blog-1.jpg"
 +++
-
 Elegir un hogar de vida asistida para un ser querido es una de las decisiones más importantes que puede tomar una familia.
 En el condado de Maricopa, Arizona, existen decenas de opciones — desde grandes instalaciones corporativas hasta hogares residenciales más íntimos como Oak & Ember. Saber qué buscar puede marcar una gran diferencia.
 
 Empiece con las preguntas correctas
 Antes incluso de programar una visita, es fundamental aclarar las necesidades específicas de su ser querido:
 
-¿Es principalmente independiente pero necesita ayuda con medicamentos y comidas?
-¿Requiere apoyo especializado para el cuidado de la memoria? Comprender el nivel de atención necesario reducirá significativamente su búsqueda.
-¿Cuál es la proporción de personal por residente durante el día y la noche?
-¿Hay una enfermera titulada (Registered Nurse) en el lugar o disponible las 24 horas?
-¿Cómo se gestionan y administran los medicamentos?
-¿Qué actividades y programas sociales se ofrecen?
-¿Cuál es el protocolo para atender emergencias médicas?
+- ¿Es principalmente independiente pero necesita ayuda con medicamentos y comidas?
+- ¿Requiere apoyo especializado para el cuidado de la memoria? Comprender el nivel de atención necesario reducirá significativamente su búsqueda.
+- ¿Cuál es la proporción de personal por residente durante el día y la noche?
+- ¿Hay una enfermera titulada (Registered Nurse) en el lugar o disponible las 24 horas?
+- ¿Cómo se gestionan y administran los medicamentos?
+- ¿Qué actividades y programas sociales se ofrecen?
+- ¿Cuál es el protocolo para atender emergencias médicas?
 
 La visita — qué observar
 Una visita le dirá mucho más que cualquier folleto. Preste atención a cómo el personal interactúa con los residentes actuales: ¿son cálidos, pacientes y atentos? ¿El lugar huele limpio y se siente acogedor? ¿Los residentes están participando y se ven cómodos, o parecen aislados?
@@ -48,3 +47,5 @@ Instalaciones pequeñas vs. grandes — por qué el tamaño importa
 Las instalaciones grandes ofrecen más comodidades, pero los hogares residenciales más pequeños suelen brindar una atención más personalizada y de mayor calidad. Con solo 10 residentes, Oak & Ember garantiza que cada persona sea conocida por su nombre, que se respeten sus preferencias y que su plan de atención sea verdaderamente individualizado.
 
 Le invitamos a visitarnos y conocer la diferencia de primera mano. Nuestro equipo siempre está dispuesto a responder sus preguntas, mostrarle nuestras rutinas diarias y ayudarle a determinar si Oak & Ember es la opción adecuada para su familia.
+
+🌳 Oak & Ember

@@ -11,15 +11,23 @@ categories = [
     "quality",
     "life",
 ]
-series = ["Quality"]
-aliases = ["quality"]
+series = ["Guide"]
+aliases = ["guide"]
 thumbnail = "images/blog-3.jpg"
 +++
+
+---
+
 Step into what a typical day at Oak & Ember is meant to feel like — a home where connection, wellness, and creativity are thoughtfully woven into everyday life.
 
 At Oak & Ember, we believe that a well-structured day filled with meaningful moments is the foundation of a good life — at any age. The vision for our home is not built around rigid schedules, but around intentional rhythms that foster comfort, purpose, and a true sense of belonging. This is the standard we are committed to creating for every future resident and family who walks through our doors.
 
-Morning: A Gentle Start
+<br>
+</br>
+
+---
+
+## Morning: A Gentle Start
 
 Mornings at Oak & Ember are designed to begin slowly and warmly. We envision residents waking at their own pace, supported by attentive caregivers who assist with personal care, dressing, and morning medications with patience and respect.
 
@@ -27,7 +35,12 @@ Breakfast is meant to be a shared experience — a time for conversation, laught
 
 After breakfast, we aim to incorporate light movement and time outdoors whenever possible. The Arizona sunshine offers a natural boost to mood and well-being, and we plan our mornings to make the most of those peaceful, cooler hours.
 
-Midday: Activities and Connection
+<br>
+</br>
+
+---
+
+## Midday: Activities and Connection
 
 Midday is where we intend to bring energy and engagement into the home. Our goal is to offer a rotating calendar of activities that nurture the mind, body, and spirit — always adaptable to residents’ interests and energy levels.
 
@@ -56,10 +69,19 @@ Meals at Oak & Ember are envisioned as more than just nourishment — they are a
 
 Whenever possible, meals will be served family-style to encourage connection and conversation. Whether dietary needs are medical, cultural, or personal, our intention is to honor each resident’s preferences so that every meal feels comforting and familiar.
 
-Evening: Winding Down Together
+<br>
+</br>
+
+---
+
+## Evening: Winding Down Together
 
 Evenings in our ideal home are calm, personal, and restorative. Some residents may choose to watch television together, while others may prefer reading, journaling, or quiet conversation.
 
 Caregivers will be present to support evening medications, personal care, and bedtime routines — always with patience and kindness.
 
 We hope to end each day with a simple, meaningful moment: a shared story, a lighthearted joke, or a quiet goodnight. Small rituals like these are what transform a place into a true home.
+
+<br>
+</br>
+🌳 Oak & Ember 

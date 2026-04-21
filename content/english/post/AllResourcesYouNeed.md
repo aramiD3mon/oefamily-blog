@@ -13,10 +13,12 @@ categories = [
     "questions",
     "homes",
 ]
-series = ["Guide"]
-aliases = ["guide"]
+series = ["Arizona"]
+aliases = ["arizona"]
 thumbnail = "images/atlanticOcean_w.jpg"
 +++
+
+---
 
 ## Assisted Living Resources in Maricopa County, Arizona
 
@@ -69,6 +71,8 @@ When looking for assisted living, it’s best to break the search into a few cat
 <br>
 </br>
 
+---
+
 ## Average Cost of Assisted Living
 
 Assisted living costs can vary depending on location, care level, apartment type and available amenities. In Maricopa County and the Phoenix area, pricing can differ widely.[^5][^6][^4]
@@ -82,8 +86,11 @@ Assisted living costs can vary depending on location, care level, apartment type
 - Arizona statewide: estimates often range from about \$4,820 to \$6,759 per month depending on the source and methodology.[^6][^5]
 
 These numbers are only starting points. Always ask each community for a full breakdown of base rent, care charges, medication support, meals, housekeeping, and any extra fees.[^5][^6]
+
 <br>
 </br>
+
+---
 
 ## Medicare and Insurance
 
@@ -152,6 +159,9 @@ Finding assisted living for a parent is about more than choosing a building. It 
 
 A strong search in Maricopa County should begin with trusted directories, county aging resources, Medicare counseling, and clear cost comparisons. From there, touring communities and asking the right questions will help you find the best fit.[^8][^1][^2]
 
+
+<br>
+</br>
 🌳 Oak & Ember 
 
 [^1]: https://www.maricopa.gov/4396/Healthy-Aging
@@ -187,4 +197,3 @@ A strong search in Maricopa County should begin with trusted directories, county
 [^16]: https://www.aarp.org/pri/topics/health/coverage-access/state-health-insurance-assistance-program-ship-medicare-assistance/
 
 [^17]: https://coveraz.org/wp-content/uploads/2015/11/SHIP-contacts-for-across-the-state-of-AZ.pdf
-
