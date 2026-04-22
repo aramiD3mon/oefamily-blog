@@ -13,10 +13,13 @@ categories = [
     "questions",
     "homes",
 ]
-series = ["Guide"]
-aliases = ["guide"]
+series = ["Guía"]
+aliases = ["guía"]
 thumbnail = "images/blog-1.jpg"
 +++
+
+---
+
 Elegir un hogar de vida asistida para un ser querido es una de las decisiones más importantes que puede tomar una familia.
 En el condado de Maricopa, Arizona, existen decenas de opciones — desde grandes instalaciones corporativas hasta hogares residenciales más íntimos como Oak & Ember. Saber qué buscar puede marcar una gran diferencia.
 
@@ -31,7 +34,12 @@ Antes incluso de programar una visita, es fundamental aclarar las necesidades es
 - ¿Qué actividades y programas sociales se ofrecen?
 - ¿Cuál es el protocolo para atender emergencias médicas?
 
-La visita — qué observar
+<br>
+</br>
+
+---
+
+## La visita — qué observar
 Una visita le dirá mucho más que cualquier folleto. Preste atención a cómo el personal interactúa con los residentes actuales: ¿son cálidos, pacientes y atentos? ¿El lugar huele limpio y se siente acogedor? ¿Los residentes están participando y se ven cómodos, o parecen aislados?
 
 Los mejores hogares de cuidado se sienten primero como un hogar y después como una instalación. Confíe en su intuición al recorrer el lugar.
@@ -48,4 +56,6 @@ Las instalaciones grandes ofrecen más comodidades, pero los hogares residencial
 
 Le invitamos a visitarnos y conocer la diferencia de primera mano. Nuestro equipo siempre está dispuesto a responder sus preguntas, mostrarle nuestras rutinas diarias y ayudarle a determinar si Oak & Ember es la opción adecuada para su familia.
 
-🌳 Oak & Ember
+<br>
+</br>
+🌳 Oak & Ember 
