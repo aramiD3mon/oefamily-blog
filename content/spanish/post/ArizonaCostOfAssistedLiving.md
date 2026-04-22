@@ -24,6 +24,7 @@ thumbnail = "images/ArizonaMeza2.jpg"
 Los costos de la vida asistida en Arizona rondarán los $6,370 mensuales en 2026, o aproximadamente entre $73,000 y $79,800 al año, cifra que se sitúa por encima de la mediana nacional. Los precios varían según la ciudad, el nivel de atención y el modelo de servicio; por lo general, las comunidades del área de Phoenix suelen tener costos más elevados, mientras que algunas ubicaciones en el sur o el oeste de Arizona resultan más económicas. Esta guía también aborda las tendencias regionales de costos, la cobertura de Medicaid a través del programa ALTCS, comparativas con otros tipos de atención y la planificación financiera a largo plazo.
 
 Un detalle digno de mención: el texto indica que la cifra correspondiente a Arizona se basa en la encuesta de 2024 realizada por Genworth/CareScout; sin embargo, otra fuente de datos sobre costos estatales para el año 2026 registra una mediana inferior para Arizona, de $4,820 mensuales. Esto demuestra que las estimaciones pueden diferir en función de la metodología y la fuente consultada.
+
 <br>
 </br>
 

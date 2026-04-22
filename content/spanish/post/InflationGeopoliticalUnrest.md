@@ -25,6 +25,8 @@ Si sientes que todo se está volviendo más caro últimamente, la vida asistida 
 
 Piénsalo como una “tormenta perfecta”. Por un lado, tienes la inflación elevando los costos cotidianos. Por otro, los conflictos globales (como la situación reciente que involucra a Irán) están sacudiendo los precios de la gasolina y las cadenas de suministro. Cuando esos factores chocan, el costo del cuidado para personas mayores se dispara rápidamente.
 
+---
+
 1. La inflación está afectando todo—incluido el cuidado
 
 En este momento, el costo promedio de la vida asistida en EE. UU. es de alrededor de $5,400+ al mes y sigue subiendo.
@@ -42,6 +44,8 @@ Seguros
 Incluso si cada uno solo aumenta unos pocos puntos porcentuales cada año, se acumula rápidamente. Con el tiempo, ha hecho que encontrar vida asistida asequible sea cada vez más difícil.
 
 Además, se están construyendo menos instalaciones nuevas. Las altas tasas de interés y los costosos materiales de construcción han ralentizado el desarrollo. Así que ahora tienes más personas que necesitan cuidado, pero menos lugares disponibles—lo que significa que los precios se mantienen altos.
+
+---
 
 2. El conflicto global está empeorando las cosas
 

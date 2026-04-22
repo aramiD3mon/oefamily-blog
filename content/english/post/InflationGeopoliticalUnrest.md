@@ -26,6 +26,8 @@ If it feels like everything is getting more expensive lately, assisted living is
 
 Think of it like a “perfect storm.” On one side, you’ve got inflation driving up everyday costs. On the other, global conflicts (like the recent situation involving Iran) are shaking up gas prices and supply chains. When those collide, the cost of senior care shoots up fast.
 
+---
+
 1. Inflation Is Hitting Everything—Including Care
 
 Right now, the average cost of assisted living in the U.S. is around $5,400+ per month and climbing.
@@ -43,6 +45,8 @@ Insurance
 Even if each one only goes up a few percent every year, it adds up quickly. Over time, it’s made affordable assisted living harder and harder to find.
 
 On top of that, fewer new facilities are being built. High interest rates and expensive construction materials have slowed development. So now you’ve got more people needing care, but fewer places available—which means prices stay high.
+
+---
 
 2. Global Conflict Is Making Things Worse
 
