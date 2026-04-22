@@ -45,6 +45,28 @@ All assisted living homes in Arizona must be licensed by the Arizona Department 
 
 Small vs. Large Facilities - Why Size Matters:
 Larger facilities offer more amenities, but smaller residential care homes often provide a higher quality of individualized care. With only 10 residents, Oak & Ember ensures that every person is known by name, their preferences are honored and their care plan is truly person We encourage you to visit us and see the difference firsthand. Our team is always happy to answer questions, walk you through our daily routines and help you determine if Oak & Ember is the right fit for your family.
+<br>
+</br>
+
+## Simple Hierarchy of Interaction View
+
+```mermaid
+graph TD;
+    NURSE-->MANAGER
+    NURSE-->CAREGIVER
+    NURSE-->RESIDENT
+    PHYSICIANS-->NURSE
+    CAREGIVER-->RESIDENT
+    RESIDENT-->CAREGIVER
+    RESIDENT-->FAMILY
+    MANAGER-->NURSE
+    MANAGER-->CAREGIVER
+    MANAGER-->FAMILY
+    FAMILY-->RESIDENT
+    FAMILY-->MANAGER
+    FAMILY-->CAREGIVER
+    FAMILY-->NURSE
+```
 
 <br>
 </br>

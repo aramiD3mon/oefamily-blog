@@ -40,7 +40,7 @@ Un detalle digno de mención: el texto indica que la cifra correspondiente a Ari
 | Prescott | $5,800 | $7,750 | ~$6,450 | ~$77,400 |
 | Flagstaff | $4,500 | $6,000 | ~$5,000 | ~$60,000 |
 | Yuma | $3,400 | $4,550 | ~$3,800 | ~$45,600 |
-| Lake | Havasu City | $4,450 | $5,900 | ~$4,925 | ~$59,100 |
+| Lake Havasu City | $4,450 | $5,900 | ~$4,925 | ~$59,100 |
 | Sierra Vista | $5,050 | $6,700 | ~$5,600 | ~$67,200 |
 
 <br>
@@ -51,7 +51,6 @@ Un detalle digno de mención: el texto indica que la cifra correspondiente a Ari
 | Tipo de cuidado | Costo mensual promedio | Ideal para |
 | ----------- | ----------- | ----------- |
 | Vida asistida | ~$6,370 | Apoyo diario moderado + alojamiento |
-| Cuidado diurno para adultos | ~$2,773 | Supervisión durante el día; la familia cubre las noches |
 | Servicios de asistencia doméstica (44 hrs/sem) | ~$6,673 | Tareas/apoyo en el hogar, a tiempo parcial |
 | Asistente de salud a domicilio (44 hrs/sem) | ~$6,864 | Cuidado personal directo en el hogar |
 | Residencia de ancianos (Semiprivada) | ~$7,604 | Entorno de enfermería especializada 24/7 |

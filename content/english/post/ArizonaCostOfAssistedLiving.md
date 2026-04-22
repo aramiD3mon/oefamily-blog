@@ -40,7 +40,7 @@ One detail to note: the passage says the Arizona figure is based on the Genworth
 | Prescott | $5,800 | $7,750 | ~$6,450 | ~$77,400 |
 | Flagstaff | $4,500 | $6,000 | ~$5,000 | ~$60,000 |
 | Yuma | $3,400 | $4,550 | ~$3,800 | ~$45,600 |
-| Lake | Havasu City | $4,450 | $5,900 | ~$4,925 | ~$59,100 |
+| Lake Havasu City | $4,450 | $5,900 | ~$4,925 | ~$59,100 |
 | Sierra Vista | $5,050 | $6,700 | ~$5,600 | ~$67,200 |
 
 <br>
@@ -51,7 +51,6 @@ One detail to note: the passage says the Arizona figure is based on the Genworth
 | Care Type | Average Monthly Cost | Best For |
 | ----------- | ----------- | ----------- |
 | Assisted Living | ~$6,370 | Moderate daily support + housing | 
-| Adult Day Care | ~$2,773 | Daytime supervision; family covers nights | 
 | Homemaker Services (44 hrs/wk) | ~$6,673 | Chores/support at home, part-time | 
 | Home Health Aide (44 hrs/wk) | ~$6,864 | Hands-on personal care at home | 
 | Nursing Home (Semi-private) | ~$7,604 | 24/7 skilled nursing environment | 
@@ -72,6 +71,17 @@ One detail to note: the passage says the Arizona figure is based on the Genworth
 | Texas | $5,000–$5,500 | 2026 |
 | New York | $6,195-$7,560 | 2026 |
 | California | $7,350-$7,488 | 2026 |
+
+<br>
+</br>
+
+```mermaid
+pie title Typical Cost Breakdown Assisted Living Home Care
+    "Labor/Care Services" : 45
+    "Housing/Utilities" : 35
+    "Food/Admin" : 15
+    "Activities" : 5
+```
 
 <br>
 </br>
