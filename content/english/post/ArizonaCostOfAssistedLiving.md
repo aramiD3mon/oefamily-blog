@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["Arizona"]
 aliases = ["arizona"]
-thumbnail = "images/ArizonaMeza2.jpg"
+thumbnail = "images/ArizonaCanyon.jpg"
 +++
 
 ---
