@@ -1,6 +1,6 @@
 +++
 author = "JB Borge"
-title = "How is inflation & geopolitical unrest is affecting our communities"
+title = "Cómo la inflación y la inestabilidad geopolítica están afectando a nuestras comunidades."
 date = "2026-04-22"
 description = "We just want some stability."
 tags = [
@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["Dinero"]
 aliases = ["dinero"]
-thumbnail = "images/MarinaBaySandSkyParkSingapore.jpg"
+thumbnail = "images/HeidelbergCastleRuin.jpg"
 +++
 
 ---

@@ -1,8 +1,8 @@
 +++
 author = "JB Borge"
-title = "Assisted Living Resources in Maricopa County"
+title = "Recursos de asistencia para la vida independiente en el condado de Maricopa"
 date = "2026-04-20"
-description = "Looking for assisted living in Maricopa County, Arizona? Explore trusted websites, average costs, Medicare guidance, AHCCCS resources, and local senior support services."
+description = "¿Busca asistencia para la vida diaria en el condado de Maricopa, Arizona? Explore sitios web confiables, costos promedio, orientación sobre Medicare, recursos de AHCCCS y servicios locales de apoyo para personas mayores."
 tags = [
     "questions",
     "compare",

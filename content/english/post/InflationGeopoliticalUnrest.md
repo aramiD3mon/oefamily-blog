@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["Money"]
 aliases = ["money"]
-thumbnail = "images/MarinaBaySandSkyParkSingapore.jpg"
+thumbnail = "images/HeidelbergCastleRuin.jpg"
 +++
 
 ---
