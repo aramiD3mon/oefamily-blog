@@ -1,0 +1,36 @@
+{{ $dir := .Get "dir" }}
+{{ $images := readDir (printf "static/%s" $dir) }}
+
+<div class="slideshow-container">
+  {{ range $index, $img := $images }}
+    {{ if not $img.IsDir }}
+      <div class="slide fade">
+        <img src="/{{ $dir }}/{{ $img.Name }}" style="width:100%">
+      </div>
+    {{ end }}
+  {{ end }}
+
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function showSlides(n) {
+  let slides = document.getElementsByClassName("slide");
+  if (n > slides.length) { slideIndex = 1 }
+  if (n < 1) { slideIndex = slides.length }
+
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+
+  slides[slideIndex - 1].style.display = "block";
+}
+</script>
