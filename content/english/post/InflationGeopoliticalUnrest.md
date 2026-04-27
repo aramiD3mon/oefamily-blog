@@ -22,15 +22,15 @@ thumbnail = "images/HeidelbergCastleRuin.jpg"
 
 ## Why Assisted Living Is Getting So Expensive in 2026
 
-If it feels like everything is getting more expensive lately, assisted living is no exception and honestly, it’s getting hit from multiple directions at once.
+If it feels like everything is getting more expensive again, assisted living is no exception & honestly, it’s getting hit from multiple directions at once.
 
-Think of it like a “perfect storm.” On one side, you’ve got inflation driving up everyday costs. On the other, global conflicts (like the recent situation involving Iran) are shaking up gas prices and supply chains. When those collide, the cost of senior care shoots up fast.
+Think of it like a “perfect storm.” On one side, you’ve got inflation driving up everyday costs. On the other, global conflicts (like the recent situation involving Iran) are shaking up gas prices & supply chains. When those collide, the cost of senior care shoots up fast.
 
 ---
 
 1. Inflation Is Hitting Everything—Including Care
 
-Right now, the average cost of assisted living in the U.S. is around $5,400+ per month and climbing.
+Right now, the average cost of assisted living in the U.S. is around $5,400+ per month & climbing.
 
 The biggest reason? Staffing.
 
@@ -42,27 +42,27 @@ Food
 Medical supplies
 Insurance
 
-Even if each one only goes up a few percent every year, it adds up quickly. Over time, it’s made affordable assisted living harder and harder to find.
+Even if each one only goes up a few percent every year, it adds up quickly. Over time, it’s made affordable assisted living harder & harder to find.
 
-On top of that, fewer new facilities are being built. High interest rates and expensive construction materials have slowed development. So now you’ve got more people needing care, but fewer places available—which means prices stay high.
+On top of that, fewer new facilities are being built. High interest rates & expensive construction materials have slowed development. So now you’ve got more people needing care, but fewer places available—which means prices stay high.
 
 ---
 
 2. Global Conflict Is Making Things Worse
 
-The recent tensions involving Iran have added another layer of pressure, especially when it comes to energy and supply chains.
+The recent tensions involving Iran have added another layer of pressure, especially when it comes to energy & supply chains.
 
-Assisted living communities use a lot of energy. They have to keep buildings at safe temperatures 24/7 for residents. So when oil prices fluctuate—even a little—it can cost facilities thousands more each month just to keep the lights on and the AC running.
+Assisted living communities use a lot of energy. They have to keep buildings at safe temperatures 24/7 for residents. So when oil prices fluctuate—even a little—it can cost facilities thousands more each month just to keep the lights on & the AC running.
 
-There are also delays in getting important supplies. Global shipping disruptions mean medical equipment and technology can take longer to arrive and cost more. Some facilities are even stockpiling essentials just to avoid running out, which ties up cash they’d rather use elsewhere.
+There are also delays in getting important supplies. Global shipping disruptions mean medical equipment & technology can take longer to arrive & cost more. Some facilities are even stockpiling essentials just to avoid running out, which ties up cash they’d rather use elsewhere.
 
 And then there’s the bigger picture: economic uncertainty. When global conflicts shake the market, retirement savings can become unpredictable. For many seniors, that makes the decision to move into assisted living even more stressful.
 
 So What’s Next?
 
-Even with a temporary ceasefire in place right now, things are still uncertain. Many operators are in “wait and see” mode.
+Even with a temporary ceasefire in place right now, things are still uncertain. Many operators are in “wait & see” mode.
 
-To cope, some are turning to technology—like remote health monitoring and AI tools—to reduce staffing needs and control costs. But those solutions take time to scale.
+To cope, some are turning to technology—like remote health monitoring & AI tools—to reduce staffing needs & control costs. But those solutions take time to scale.
 
 The Reality
 

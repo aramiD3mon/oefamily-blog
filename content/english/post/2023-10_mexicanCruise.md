@@ -1,9 +1,9 @@
 +++
 author = "JB Borge"
-title = "To the Caribbean"
+title = "Caribbean Cruise: Turquoise Waters & Endless Horizons”"
 date = 2023-10-02
 +++
 
-Set sailing to the Western Caribbean (Costa Maya & Cozumel)
+We came back home already…but mentally still here (Costa Maya & Cozumel)
 
 {{< slideshow dir="images/2023-10_cruiseCaribbean" >}}

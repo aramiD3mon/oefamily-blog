@@ -1,9 +1,9 @@
 +++
 author = "JB Borge"
-title = "Philippines"
+title = "It’s more fun in the Philippines"
 date = 2024-02-09
 +++
 
-Our trip all over the Philippines!
+It’s More Fun in the Philippines...& We Proved It
 
 {{< slideshow dir="images/2024-02_philippines" >}}
