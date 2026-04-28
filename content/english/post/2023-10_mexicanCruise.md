@@ -1,6 +1,6 @@
 +++
 author = "JB Borge"
-title = "Caribbean Cruise: Turquoise Waters & Endless Horizons”"
+title = "Caribbean Cruise: Turquoise Waters & Endless Horizons"
 date = 2023-10-02
 +++
 
